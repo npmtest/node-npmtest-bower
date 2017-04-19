@@ -1,6 +1,6 @@
 # npmtest-bower
 
-#### test coverage for  [bower (v1.8.0)](http://bower.io)  [![npm package](https://img.shields.io/npm/v/npmtest-bower.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bower) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bower.svg)](https://travis-ci.org/npmtest/node-npmtest-bower)
+#### basic test coverage for  [bower (v1.8.0)](http://bower.io)  [![npm package](https://img.shields.io/npm/v/npmtest-bower.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bower) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bower.svg)](https://travis-ci.org/npmtest/node-npmtest-bower)
 
 #### The browser package manager
 
